@@ -1,10 +1,16 @@
 import React from 'react'
+import classes from './Header.module.css'
 
 const Header = () => {
   return (
-    <div>
-      <h1>Weather Application</h1>
+    <>
+    <div className={classes.main}>
+      <h1 className={classes.heading}>Weather Application</h1>
+      
     </div>
+    <div className={classes.under}></div>
+    </>
+    
   )
 }
 

@@ -1,0 +1,80 @@
+.heading {
+  text-align: center;
+  color: white;
+  font-size: 5vw;
+}
+
+.valhead {
+  background-color: hsl(240, 100%, 60%);
+  padding: 1vw;
+  border-radius: 2vw;
+}
+
+.para {
+  text-align: center;
+  font-size: 2vw;
+  color: white;
+}
+.ol1 {
+  list-style: none;
+}
+
+.list1 {
+  display: flex;
+  justify-content: space-around;
+}
+.list {
+  margin-bottom: 5vw;
+}
+
+.list1 span{
+  color: white;
+  font-size: 1.5vw;
+}
+
+.para1 {
+  color: white;
+  font-size: 1.5vw;
+  text-align: center;
+  margin-top: -2vw;
+}
+
+.morebtn {
+  font-size: 2vw;
+  border: none;
+  border-radius: 1vw;
+  color: black;
+  background-color: yellow;
+  padding: 1vw 2vw;
+}
+
+.lessbtn {
+  font-size: 2vw;
+  border: none;
+  border-radius: 1vw;
+  color: black;
+  background-color: red;
+  padding: 1vw 2vw;
+}
+
+.div2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ol2 {
+  list-style: none;
+}
+
+.hourlist {
+  display: flex;
+  margin-bottom: 2vw;
+  color: white;
+  font-size: 1.4vw;
+}
+
+.hourlist span {
+  margin-right: 2vw;
+}

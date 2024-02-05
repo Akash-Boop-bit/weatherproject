@@ -1,0 +1,34 @@
+.maindiv {
+  background-color: hsl(60, 100%, 70%);
+  height: 8vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2vw;
+}
+
+.input {
+  border: none;
+  font-size: 2vw;
+  padding: 1vw 2vw ;
+  text-align: center;
+  border-radius: 2vw;
+}
+
+.input:hover {
+  background-color: rgb(208, 208, 233);
+}
+
+.button {
+  color: white;
+  background-color: red;
+  border-radius: 2vw;
+  margin-left: 1vw;
+  border: none;
+  font-size: 2vw;
+  padding: 1vw 2vw;
+}
+
+.button:hover {
+  background-color: hwb(0 0% 20%);
+}

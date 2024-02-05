@@ -1,0 +1,6 @@
+#root {
+  background-color: hsl(240, 100%, 50%);
+  min-height: 100vh;
+  padding: 0 0 2vw;
+  border-radius: 2vw;
+}
